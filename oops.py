@@ -13,19 +13,7 @@
 
 
 
-class Chef:
-
-
-    def make_chicken(self):
-        print("The chef makes the chicken")
-    def make_salad(self):
-        print("The chef makes the salad")
-    def make_special_dish(self):
-        print("The chef makes the special dish")
 
 
 
 
-
-    myChef = Chef()
-    myChef.make_chicken()
