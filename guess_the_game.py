@@ -1,4 +1,4 @@
-secret_number = "ViPuL".lower()
+secret_number = "VIPUL".lower()
 guess = ""
 number_of_guess = 0
 chance_of_guess = 3
